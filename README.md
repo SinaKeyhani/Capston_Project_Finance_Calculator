@@ -1,4 +1,4 @@
-# Capstone Project - Finance 
+# Capstone Project - Finance Calculator 
 Welcome to my Capstone Project repository! In this project, I have developed a comprehensive financial calculator program tailored for a small financial company. The primary objective of this program is to provide users with convenient access to two essential financial calculators: an investment calculator and a home loan repayment calculator.
 
 The investment calculator within this program empowers users to make informed financial decisions by accurately estimating the future value of their investments. With customizable parameters such as initial investment amount, interest rate, and investment period, users can explore various investment scenarios and visualize potential returns.
