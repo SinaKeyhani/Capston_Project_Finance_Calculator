@@ -8,3 +8,5 @@ In addition to the investment calculator, this program features a robust home lo
 Whether users are planning their financial future through investments or managing their mortgage repayments, this financial calculator program offers intuitive tools to support informed decision-making. With user-friendly interfaces and accurate calculations, users can navigate complex financial scenarios with confidence.
 
 Explore the features and functionalities of this Capstone Project repository to discover how it can enhance financial planning and decision-making processes for individuals and small financial companies alike. 
+
+Thank you for visiting!
